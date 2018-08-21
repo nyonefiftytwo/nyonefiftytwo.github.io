@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-It's really too soon to say what this space will be used for. Exploit and malware writeups? Did the internet really need another one of those? If you can think of better ways I could be spending my time or whatever, email me at `ozpofgjguzuxp@qspuponbjm.dpn` ([ROT-25](http://theblob.org/rot.cgi)) or find me at one of the shit shows below. This message was brought to you by the letter `\x90`.
+It's really too soon to say what this space will be used for. Exploit and malware writeups? Did the internet really need another one of those? If you can think of better ways I could be spending my time or whatever, email me at `ozpofgjguzuxp@qspuponbjm.dpn` ([ROT-25](http://theblob.org/rot.cgi)) or find me at one of the infosec shit shows below. This message was brought to you by the letter `\x90`.
 
 --Randell
 
